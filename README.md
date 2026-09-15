@@ -35,4 +35,4 @@ This project is a simple webpage built using semantic HTML5 to practice page str
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/My-First-Project.git](https://github.com/your-username/My-First-Project.git)
+   git clone [https://github.com/your-username/My-First-Project.git]
